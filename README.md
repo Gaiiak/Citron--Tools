@@ -27,23 +27,23 @@ N<h1 align="center">Gaiiak Game<br />Configuration tool for the Citron Switch em
 
 <h2 align="center">Description</h2>
 <div align="center">
-  <p>Ajoutez ici une description detaillee de l'outil, ses fonctions et son usage.</p>
+  <p>Nous ne sommes pas affilié à Nintendo ou à l'éditeur de l'émulateur Citron. <br /> <br /> Notre utilitaire est indépendant, ne modifie pas les sources de l'émulateur et, bien que proposé gratuitement (pour l'instant), reste notre entière propriété.<br /> <br />Cet outil est actuellement capable de télécharger la dernière version de Citron, dans sa version CI ( comprendre version de développement), et la configurer complètement grace à un kit qui apporte configuration firmware etc .. <br /> <br />Nous allons lui ajouter au grès des versions de nouvelles fonctionnalités comme pressets, gestion de profils ( jeux ) et bientot joueurs, réseaux etc ..  <br /> <br />Ci-dessous le tuto en vidéo  si plus pratique pour vous.</p>
 </div>
 
 <hr />
 
 <h2 align="center">Tuto</h2>
 <div align="center">
-  <p>Ajoutez ici le lien ou l'aperçu de votre video YouTube.</p>
+  <p>En cours de modification ...</p>
 </div>
 
 <hr />
 
 <h2 align="center">Captures d'ecran</h2>
 <div align="center">
-  <img src="images/capture-01.jpg" alt="Capture 01" width="320" />
-  <img src="images/capture-02.jpg" alt="Capture 02" width="320" />
-  <img src="images/capture-03.jpg" alt="Capture 03" width="320" />
+  <img src="images/Capture 1.png" alt="Capture 01" width="320" />
+  <img src="images/Capture 2.png" alt="Capture 02" width="320" />
+  <img src="images/Capture 3.png" alt="Capture 03" width="320" />
 </div>
 
 <hr />
