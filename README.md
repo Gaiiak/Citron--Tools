@@ -53,6 +53,6 @@ N<h1 align="center">Gaiiak Game<br />Configuration tool for the Citron Switch em
 
 <h2 align="center">Notes des mises a jour</h2>
 <div align="center">
-  <p>Ajoutez ici les notes de version, correctifs et nouvelles fonctions.</p>
+  <p>V1.1 Ajout des profils et presets de configuration. <br /> <br />V1.2 Ajout fonctionnalité : les profils permettent de sélectionner le jeu à lancer avec l'émulateur. <br /> <br /> V1.3 Ajout : la sélection du jeu renomme le profil à son nom et s'affiche la cover du jeu.  <br /> <br /> V1.4 Ajout du descriptif du jeu + Ajout des fonctionnalités de jeu en réseau  ( version en cours de dev )</p>
 </div>
 ext
