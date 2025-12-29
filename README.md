@@ -32,14 +32,14 @@
 <div align="left" style="text-align: justify; max-width: 980px; margin: 0 auto;">
   <p> 📝 Gaiiak Game's Citron Tools est une application Windows qui centralise l'installation, la configuration et la maintenance de l'&eacute;mulateur Switch Citron.</p>
   <ul>
-    <li>T&eacute;l&eacute;chargement de la derni&egrave;re version CI.</li>
-    <li>T&eacute;l&eacute;chargement et installation d'un kit (firmware, param&egrave;tres).</li>
-    <li>Gestion des profils et presets par jeu.</li>
-    <li>S&eacute;lection des jeux avec visuels.</li>
-    <li>Application de mods (textures HD, r&eacute;solution, ultrawide).</li>
-    <li>Options r&eacute;seau en cours de d&eacute;veloppement.</li>
+    <li> ✅ T&eacute;l&eacute;chargement de la derni&egrave;re version CI.</li>
+    <li> ✅ T&eacute;l&eacute;chargement et installation d'un kit (firmware, param&egrave;tres).</li>
+    <li> ✅ Gestion des profils et presets par jeu.</li>
+    <li> ✅ S&eacute;lection des jeux avec visuels.</li>
+    <li> ✅ Application de mods (textures HD, r&eacute;solution, ultrawide).</li>
+    <li> ✅ Options r&eacute;seau en cours de d&eacute;veloppement.</li>
   </ul>
-  <p>L'application n'est pas affili&eacute;e &agrave; l'&eacute;diteur de l'&eacute;mulateur Citron et, bien que gratuite, reste la propri&eacute;t&eacute; int&eacute;grale de Gaiiak Game (code et concept).</p>
+  <p>⚠️ L'application n'est pas affili&eacute;e &agrave; l'&eacute;diteur de l'&eacute;mulateur Citron et, bien que gratuite, reste la propri&eacute;t&eacute; int&eacute;grale de Gaiiak Game (code et concept).</p>
 </div>
 
 <hr />
