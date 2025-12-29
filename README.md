@@ -37,9 +37,10 @@
     <li> ✅ Gestion des profils et presets par jeu.</li>
     <li> ✅ S&eacute;lection des jeux avec visuels.</li>
     <li> ✅ Application de mods (textures HD, r&eacute;solution, ultrawide).</li>
-    <li> ✅ Options r&eacute;seau en cours de d&eacute;veloppement.</li>
+    <li> ✅ Options jeu en r&eacute;seau </li>
+    <li> ⏳ Gestion licence utilisateur </li>
   </ul>
-  <p>⚠️ L'application n'est pas affili&eacute;e &agrave; l'&eacute;diteur de l'&eacute;mulateur Citron et, bien que gratuite, reste la propri&eacute;t&eacute; int&eacute;grale de Gaiiak Game (code et concept).</p>
+  <p>⚠️ L'application n'est pas affili&eacute;e &agrave; l'&eacute;diteur de l'&eacute;mulateur Citron.</p>
 </div>
 
 <hr />
