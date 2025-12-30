@@ -38,7 +38,7 @@
      <li>✅ S&eacute;lection et lancement des jeux avec visuels et description.</li>
      <li>✨ Application de mods (textures HD, r&eacute;solution écran, autres).</li>
      <li>✅ Options pour jouer en r&eacute;seau </li>
-     <li>⏳ Gestion licence utilisateur </li>
+     <li>✨ Gestion licence utilisateur (licence gratuite incluse dans la release)</li>
   </ul>
   <p>⚠️ L'application n'est pas affili&eacute;e &agrave; l'&eacute;diteur de l'&eacute;mulateur Citron. Les jeux, DLC, mises à jour, mod ne sont pas fournis.</p>
 </div>
