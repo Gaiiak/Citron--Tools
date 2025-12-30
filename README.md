@@ -123,7 +123,8 @@
   <li>V1.3 Ajout : la sélection du jeu renomme le profil à son nom et s'affiche la photo du jeu.  <br /> <br /> </li>
   <li>V1.4 Ajout du descriptif du jeu + Ajout des fonctionnalités de jeu en réseau.
   <br /> <br /> </li>
-  <li>V1.5 Refonte de l'interface + ajout de la gestion des mod. </li>
+  <li>V1.5 Refonte de l'interface + ajout de la gestion des mod.
+    <br /> <br /> </li>
   <li>V1.6 Ajout de la gestion des licences, une licence gratuite de 3 jours avec la release, les membres auront des licences offertes. </li>
   </p>
 </div>
