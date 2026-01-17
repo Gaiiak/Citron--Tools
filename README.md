@@ -32,15 +32,17 @@
 <div align="left" style="text-align: justify; max-width: 980px; margin: 0 auto;">
   <p> 📝 Gaiiak Game Switch Tools remplace dès à présent GG Citron Tools. Cette nouvelle monture propose maintenant la gestion des 3 émulateurs switch phares : Citron, Eden et Ryujinx.C'est  une application Windows qui centralise pour chaque émulateur l'installation, la configuration et la maintenance des &eacute;mulateurs  automatiquement. Elle gère également différents profils utilisateurs, dont un mode enfant pour les parents.  Vous trouverez ci-dessous toutes les fonctionnalités. A noter : pour fonctionner , l'application nécessite d'installer le runtime Microsoft disponible ici : https://dotnet.microsoft.com/fr-fr/download/dotnet/thank-you/sdk-10.0.101-windows-x64-installer</p>
   <ul>
-     <li>✅ T&eacute;l&eacute;chargement de la derni&egrave;re version CI.</li>
+     <li>✅ T&eacute;l&eacute;chargement de la derni&egrave;re version des émulateurs.</li>
      <li>✅ T&eacute;l&eacute;chargement et installation d'un kit (firmware, param&egrave;tres).</li>
-     <li>✅ Gestion des profils et presets par jeu.</li>
-     <li>✅ S&eacute;lection et lancement des jeux avec visuels et description.</li>
-     <li>✨ Application de mods (textures HD, r&eacute;solution écran, autres).</li>
+     <li>✨ Gestion des profils : jeux et utilisateurs avec mode "Enfant" bientot disponible</li>
+     <li>✨ Mode interface ultra réduite avec temps de jeu </li>
+     <li>✅ S&eacute;lection et lancement des jeux avec visuels, profil personnalisé et description.</li>
+     <li>✨ Ajout dans la description  de l'age estimé pour le jeu, proche PEGI </li>
+     <li>✅ Application de mods (textures HD, r&eacute;solution écran, autres).</li>
      <li>✅ Options pour jouer en r&eacute;seau </li>
-     <li>✨ Gestion licence utilisateur (licence gratuite incluse dans la release)</li>
+     <li>✨ Gestion licence utilisateur avancée</li>
   </ul>
-  <p>⚠️ L'application n'est pas affili&eacute;e &agrave; l'&eacute;diteur de l'&eacute;mulateur Citron. Les jeux, DLC, mises à jour, mod ne sont pas fournis.</p>
+  <p>⚠️ L'application n'est pas affili&eacute;e &agrave; l'&eacute;diteur de l'&eacute;mulateur Citron, Eden et  ou Ryujinx. Les jeux, DLC, mises à jour, mod ne sont et ne seront  pas fournis, site Web compris.</p>
 </div>
 
 <hr />
@@ -127,6 +129,6 @@
     <br /> <br /> </li>
   <li>V1.6 Ajout de la gestion des licences, une licence gratuite de 3 jours avec la release, les membres auront des licences offertes. </li>
         <br /> <br /> </li>
-  <li>V2.0 Refonte de l'application pour l'étendre aux 3 émulateurs Citron, Eden et Ryujinx. La clé de licence sur ce github ne couvre que Citron dans sa version Free. </li>
+  <li>V2.0 Refonte de l'application pour l'étendre aux 3 émulateurs Citron, Eden et Ryujinx. Les clés de licence sur ce github  expire le 20/01/2026 pour des licence plus longue, vous devez etre abonné à la chaine pour accéder à notre Discord, lieu ou nous diffusons tous les mois des licences de 30 jours ou plus gratuitement. </li>
   </p>
 </div>
