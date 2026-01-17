@@ -89,7 +89,7 @@
         <img src="images/Capture 4.png" alt="Capture 04" width="320" />
       </td>
       <td style="vertical-align: top; padding: 8px; text-align: left;">
-        <p><strong> </strong><br />R&eacute;sum&eacute; &agrave; compl&eacute;ter.</p>
+        <p><strong>Gestion des Mod ( Ecran, Textures, autres (triches ..😊) </strong><br />R&eacute;sum&eacute; &agrave; compl&eacute;ter.</p>
         <a href="https://youtu.be/..." target="_blank">Lien YouTube</a>
       </td>
     </tr>
